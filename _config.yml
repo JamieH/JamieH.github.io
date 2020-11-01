@@ -7,7 +7,7 @@
 
 # Site settings
 title:  波动率微笑
-subtitle: 分享技术，品味人生
+subtitle: 分享交易，品味人生
 name: 波动率微笑 
 email: h@126.com
 description: 本站是波动率微笑的技术分享博客。内容包括波动率微笑相关的研究与知识分享。
@@ -57,8 +57,8 @@ menus:
 
 
   -
-    href: /money.html
-    label: 挣钱
+    href: /stochastic.html
+    label: 随机波动
     target: _self   
 
   -
@@ -66,20 +66,6 @@ menus:
     label: 深度
     target: _self
 
-  -
-    href: /life.html
-    label: 故事
-    target: _self
-
-  -
-    href: /arch.html
-    label: 架构
-    target: _self
-
-  -
-    href: /link.html
-    label: 友链
-    target: _self
 
   -
     href: /about.html
@@ -134,35 +120,12 @@ navs:
 # labels. my blog key words
 labels:
 
-  -
-    href: /payment.html
-    label: Pay     
-    target: _self
 
   -
     href: /fastdfs.html
     label: FastDFS
     target: _blank
 
-  -
-    href: /mongodb.html
-    label: MongoDB
-    target: _blank
-
-  -
-    href: /docker.html
-    label: Docker
-    target: _blank
-
-  -
-    href: /open-source.html
-    label: Code  
-    target: _blank
-
-  -
-    href: /gitchat.html
-    label: Chat
-    target: _blank
 
 
 # selected articles
