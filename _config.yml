@@ -10,8 +10,8 @@ title:  波动率微笑
 subtitle: 分享技术，品味人生
 name: 波动率微笑 
 email: h@126.com
-description: 本站是波动率微笑的技术分享博客。内容波动率微笑相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+description: 本站是波动率微笑的技术分享博客。内容包括波动率微笑相关的研究与知识分享。
+keywords: 
 encoding: "utf-8"
 favicon: favicon.ico 
 
@@ -55,10 +55,6 @@ paginate_path: 'page:num'
 # Navigation. top menu list
 menus:
 
-  -
-    href: http://favorites.ren/stock.html
-    label: 股票
-    target: _blank  
 
   -
     href: /money.html
@@ -97,24 +93,6 @@ navs:
     href: /
     label: Home
 
-  -
-    href: http://laughyouth.com/
-    label: Comics
-    target: _blank
-
-  -
-    href: /spring-boot.html
-    label: Spring Boot
-    target: _self
-    subnav:
-
-      -
-        subHref: /spring-boot.html
-        subLabel: Spring Boot
-
-      -
-        subHref: /spring-cloud.html
-        subLabel: Spring Cloud
 
   -
     href: http://www.justdojava.com
@@ -190,10 +168,7 @@ labels:
 # selected articles
 classes:
 
-  -
-    href: /cartoon.html
-    name: 不会笑青年
-    describe: 内心沉稳 ，放荡不羁。
+
 
   -
     href: /life.html
@@ -230,28 +205,28 @@ skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, NodeJS, ExpressJS, MongoDB, Re
 skill_mobile_app_keywords: [vuejs, hyhird app]
 
 
-# ---------------- #
-#      Comments    #
-# ---------------- #
-# support provider: disqus, gitment, gitalk
-comments_provider: gitalk
-# !!!重要!!! 请修改下面这些信息为你自己申请的
-# !!!Important!!! Please modify infos below to yours
-# https://disqus.com
-disqus:
-    username: ityouknow
-# https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: ityouknow
-    repo: blog-comments
-    oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
-# https://github.com/gitalk/gitalk#install
-gitalk:
-    owner: ityouknow
-    repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
-# 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : true
+# # ---------------- #
+# #      Comments    #
+# # ---------------- #
+# # support provider: disqus, gitment, gitalk
+# comments_provider: gitalk
+# # !!!重要!!! 请修改下面这些信息为你自己申请的
+# # !!!Important!!! Please modify infos below to yours
+# # https://disqus.com
+# disqus:
+    # username: JamieH
+# # https://imsun.net/posts/gitment-introduction/
+# gitment:
+    # owner: JamieH
+    # repo: blog-comments
+    # oauth:
+        # client_id: 61bfc53d957e74e78f8f
+        # client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+# # https://github.com/gitalk/gitalk#install
+# gitalk:
+    # owner: ityouknow
+    # repo: blog-comments
+    # clientID: 61bfc53d957e74e78f8f
+    # clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+# # 在使用其它评论组件时可点击显示 Disqus
+# lazy_load_disqus : true
