@@ -9,7 +9,7 @@ permalink: /link
 
 ## 友情链接
 
-- [不会笑青年](http://laughyouth.com/) - 全网唯二以程序员为主题的漫画网站
+<!-- - [不会笑青年](http://laughyouth.com/) - 全网唯二以程序员为主题的漫画网站
 - [Python 技术](http://www.justdopython.com/) - 专业的 Python 学习网站
 - [Java 极客技术](http://www.justdojava.com) - Java 技术人的一片天地
 - [沉默王二](http://www.itwanger.com) - 一个有趣的程序员
@@ -22,11 +22,11 @@ permalink: /link
 - [cmsblogs](http://cmsblogs.com/) - chenssy记录、分享JAVA技术
 - [小柒博客](https://blog.52itstyle.vip) - 小柒博客，一个主JAVA，次架构，偶尔聊聊生活的地方。
 - [荒蛮故事](http://relatos.top/) - 一个分享故事的网站
-- [飞哥专栏](https://www.ffeeii.com) - 关注技术开发和工程效率
+- [飞哥专栏](https://www.ffeeii.com) - 关注技术开发和工程效率 -->
 
 ## 推荐网站
 
-- [小白学堂](http://www.itmind.net/) - 学的不仅是技术，更是前程！
+<!-- - [小白学堂](http://www.itmind.net/) - 学的不仅是技术，更是前程！
 - [知识星球精选](http://www.zsxq100.com/just-talk-about-make-money) - 各种好玩的知识星球推荐
 - [抖音视频下载](https://free-tiktok.com/) - 抖音、Youtube、instagram视频去水印下载
 - [程序员导航网站](http://tooool.org/) - 程序员的导航网站 
@@ -38,24 +38,24 @@ permalink: /link
 - [wherebt](http://wherebt.com/) - 提供各种BT资源导航,主要收录了bt sync keys的分享网站
 - [公众号编辑器](http://md.ityouknow.com/) - 可以以优雅的方式在微信公众号去发布markdown文章
 - [技术博客联盟](http://techblog.pub/) - 原创技术博客作者交流的地方
-- [人工智能教程博客](http://www.captainbed.net/blog-neo) - 一个幽默的系列课程
+- [人工智能教程博客](http://www.captainbed.net/blog-neo) - 一个幽默的系列课程 -->
 
 
 ## 个人链接
 
-- [ityouknow](http://www.ityouknow.com/) - 个人独立博客
+<!-- - [ityouknow](http://www.ityouknow.com/) - 个人独立博客
 - [github](https://github.com/ityouknow) -  我分享代码的地方
 - [微博](http://weibo.com/ityouknow) -  我的微博
 - [知乎](https://www.zhihu.com/people/ityouknow) - 个人知乎地址，回答一些问题
 - [博客园](https://www.cnblogs.com/ityouknow/) - 博客园推荐博客，排名前十五
 - [CSDN](http://blog.csdn.net/ityouknow)  - 博客专家，同步公号内容
-- [51CTO](http://blog.51cto.com/ityouknow) - 51CTO 推荐博客，排名前十
+- [51CTO](http://blog.51cto.com/ityouknow) - 51CTO 推荐博客，排名前十 -->
 
 ## 其它  
 
 *需要展示你的网站，就在本页下面留言吧，也算是一种宣传方式。格式要求如下：*
 
-- 网站名称：ityouknow  
-- 网站链接：http://www.ityouknow.com  
-- 网站描述：neo 的个人博客，分享技术，分享生活  
+- 网站名称：optiontrader  
+- 网站链接：http://www.optiontrader.me 
+- 网站描述：分享生活  
 
